@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <main style={{ padding: "40px", fontFamily: "Arial" }}>
-      <h1>Gwerik</h1>
+      <h1>Gwerik Home</h1>
 
       <p>
         Automation • OCI • Architecture • PeopleSoft
